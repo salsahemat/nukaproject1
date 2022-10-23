@@ -32,4 +32,11 @@ Route::get('/', function () {
     ]);
 });
 
+Route::get('/gallery', function () {
+    return view('gallery', [
+        'pagetitle' => 'Gallery',
+        'maintitle' => 'Our Gallery'
+    ]);
+});
+
 
