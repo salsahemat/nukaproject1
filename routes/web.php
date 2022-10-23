@@ -21,7 +21,7 @@ Route::get('/writer/{id}', [ProductController::class, 'show']);
 Route::get('/about', function () {
     return view('about', [
         'pagetitle' => 'About Us',
-        'maintitle' => 'About My Library'
+        'maintitle' => 'WHAT IS OHMLY BARN?'
     ]);
 });
 
