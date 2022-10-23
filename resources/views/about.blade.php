@@ -9,7 +9,7 @@
                 We provide the best gluten free food <br> withlactose intolerance.
             </p>
             <div class="">
-                <img src="../images/womanhike.png" class="mx-auto">
+                <img src="../images/womanhike.png" class="mt-5">
                 <img src="../images/bukit.png" class="mx-auto">
             </div>
            

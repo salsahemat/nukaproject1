@@ -13,10 +13,7 @@
       <div class="col-lg-6">
         <div class="row">
             <div class="col">
-                <img src="../images/Chocolalate.png">
-            </div>
-            <div class="col">
-                <img src="../images/Vanilalala.png">
+                <img src="../images/gabunganproduk.png">
             </div>
         </div>
       </div>
