@@ -7,7 +7,7 @@
       <div class="col-lg-6">
         <h1 class="lh-base">{{ $maintitle }} <br>Homemade  Oatmilk</h1>
         <p class="lh-base">Ohmly Barn is made from simple,<br> natural oats. Plant-based, vegan- <br> friendly, dairy and lactose-free</p>
-        <button type="button" class="btn btn-warning text-opacity-50">Learn More</button>
+        <button type="button" class="btn btn-outline" style="background-color: #F2F5C8">Learn More</button>
     </div>
       <div class="col-lg-6">
         <div class="row">
