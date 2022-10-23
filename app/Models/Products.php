@@ -14,13 +14,13 @@ class Products extends Model
             'id' => 1,
             'name' =>'Vanilla La La',
             'Ingredients' => 'Australian Oat, Water, Salt, Stevia,Vanilla Bean',
-            'image_name' => 'keti.jpeg',
+            'image_name' => 'Vanilalala.png',
         ],
         [
             'id' => 2,
             'name' => 'Chocolalate',
             'Ingredients' => 'Australian Oat, Water, Salt,Stevia, Dark Cacao 90%',
-            'image_name' => 'keti.jpeg'
+            'image_name' => 'Chocolalate.png'
         ]
     ];
 
