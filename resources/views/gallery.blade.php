@@ -4,5 +4,7 @@
 @section('container')
     <h1 class="text-center">{{ $maintitle }}</h1>
    <h2>Exhibition</h2>
-   <img src="">
+   <div class="h-25">
+    <img src="../images/royalexhibition.png">
+   </div>
 @endsection
