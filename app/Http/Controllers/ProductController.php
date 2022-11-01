@@ -20,8 +20,7 @@ class ProductController extends Controller
     public function show($id){
         return view('show', [
             'pagetitle' => 'Product',
-            'maintitle1' => 'Best Seller',
-            'maintitle1' => 'Favoritos!',
+            'maintitle1' => 'Our Products',
             'product' => Products::showProduct($id) //ambil satu writer dengan memanggil function nya yang memiliki id 
         ]);
     }

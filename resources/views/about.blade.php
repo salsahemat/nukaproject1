@@ -12,7 +12,7 @@
             </p>
             <div class="col-12 col-lg-6 mb-4">
                 <div class="img-head">
-                    <img src="../images/achieve.png" style="display: block; margin- ">
+                    <img src="../images/achieve.png" class="w-50">
                 </div>
             </div> 
         </div>

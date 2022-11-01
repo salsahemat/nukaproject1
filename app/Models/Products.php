@@ -12,15 +12,25 @@ class Products extends Model
     private static $products = [
         [
             'id' => 1,
-            'name' =>'Vanilla La La',
+            'name' =>'Vanilla
+                         La La',
             'Ingredients' => 'Australian Oat, Water, Salt, Stevia,Vanilla Bean',
-            'image_name' => 'Vanilalala.png',
+            'image_name' => 'vanilayow.png',
+            'Description' => 'This flavours is our best seller one, it taste very 
+                              warm and sweet , and it will more sweet if you drink 
+                              it with your lovers!',
+            'Expired Date' => 'In refrigerator : last 5 days'
         ],
         [
             'id' => 2,
-            'name' => 'Chocolalate',
+            'name' => 'Choco
+                        lalate',
             'Ingredients' => 'Australian Oat, Water, Salt,Stevia, Dark Cacao 90%',
-            'image_name' => 'Chocolalate.png'
+            'image_name' => 'chocoyow.png',
+            'Description' => 'This flavors use purely dark cocoa that taste bitter 
+                              but sweet at the same time, dont forget to drink it 
+                              with your love ones! ',
+            'Expired Date' => 'In refrigerator : last 5 days'
         ]
     ];
 
