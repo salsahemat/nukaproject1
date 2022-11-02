@@ -16,7 +16,7 @@ use App\Http\Controllers\ProductController;
 */
 Route::get('/product', [ProductController::class, 'product']); //ketika routing jalan, dia akan memanggil controller ini dan memamnggil function ini ( function seperti function biasa )
 //kurung kotak pertama isi nama controller pertama, :: untuk memamnggil sebuah model, parameter kedua function yg kita panggil
-Route::get('/writer/{id}', [ProductController::class, 'show']);
+// Route::get('/writer/{id}', [ProductController::class, 'show']);
 
 Route::get('/about', function () {
     return view('about', [
