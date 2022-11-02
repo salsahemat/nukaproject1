@@ -17,12 +17,12 @@ class ProductController extends Controller
         ]);
     }
 
-    public function show($id){
-        return view('show', [
-            'pagetitle' => 'Product',
-            'maintitle1' => 'Our Products',
-            'product' => Products::showProduct($id) //ambil satu writer dengan memanggil function nya yang memiliki id 
-        ]);
-    }
+    // public function show($id){
+    //     return view('show', [
+    //         'pagetitle' => 'Product',
+    //         'maintitle1' => 'Our Products',
+    //         'product' => Products::showProduct($id) //ambil satu writer dengan memanggil function nya yang memiliki id 
+    //     ]);
+    // }
 }
 
