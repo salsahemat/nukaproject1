@@ -26,7 +26,7 @@
             </section>
         @endforeach
         <div class="container-fluid col-12 mb-lg-5 text-center w-75">
-            <h2 class="mt-5">The Instructions</h2>
+            <h1 class="mt-5 fs-1" style="font-size: 100px">The Instructions</h1>
             <div class="row">
                 <div class="col-lg-3">
                     <img src="../images/1.png" class="img-fluid m-3 h-100 w-100 rounded-2">
