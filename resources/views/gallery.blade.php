@@ -7,14 +7,8 @@
     <div class="container-fluid col-12 mb-lg-5 text-center w-75">
         <div class="row">
             <div class="col">
-                <img src="../images/exhibitions.jpeg" class="img-fluid m-3 h-100 w-100 rounded-2">
+                <img src="../images/exhibitionss.jpeg" class="img-fluid m-3 h-100 w-100 rounded-2">
             </div>
-            {{-- <div class="col-lg-4">
-                <img src="../images/ucicf.png"  class="img-fluid m-3 h-100 w-100 rounded-2">
-            </div>
-            <div class="col-lg-4 mb-5">.
-                <img src="../images/sincerelywarp.png"  class="img-fluid m-3 h-100 w-100 rounded-2">
-            </div> --}}
         </div>
     </div>
     <h2 class="mt-5 text-center">Our Testimoni</h2>

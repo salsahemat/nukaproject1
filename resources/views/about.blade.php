@@ -1,7 +1,7 @@
 @extends('Layout.app')
 
 @section('container')
-    <div class="about-us-section">
+    <div class="about-us-section bg-light">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-lg-6 mb-4 mb-lg-0">
